@@ -17,9 +17,6 @@
   <a href="https://linkedin.com/in/manas-g424249256" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://mana-sg.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
-  </a>
 </div>
 
  <hr/>
@@ -33,7 +30,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nodejs,tensorflow,pytorch,bootstrap" /><br/>
-    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,flask" /><br/>
+    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,flask,vite" /><br/>
 </div>
 
 <br/>
@@ -42,7 +39,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,git,linux,mongodb,firebase" /><br/>
     <img src="https://skillicons.dev/icons?i=matlab,arduino,vscode,unity,nodejs" /><br/>
-    <img src="https://skillicons.dev/icons?i=express" /><br/>
+    <img src="https://skillicons.dev/icons?i=express,postman" /><br/>
 <br/>
 
 <br/>
