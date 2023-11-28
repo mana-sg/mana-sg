@@ -23,23 +23,30 @@
 </div>
 
  <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<h2 align="center">⚒️ Languages ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,python,c,cpp,java,javascript" /><br>
-    <img src="https://skillicons.dev/icons?i=swift,html,css,javascript,git,linux" /><br/>
-    <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,firebase,tensorflow,pytorch" /><br/>
-    <img src="https://skillicons.dev/icons?i=nextjs,matlab,arduino,vscode,tailwind,bootstrap" /><br/>
-    <img src="https://skillicons.dev/icons?i=express,flask,unity" /><br/>
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript" /><br>
+    <img src="https://skillicons.dev/icons?i=swift,html,css" /><br/>
+ <h2 align="center">⚒️ Frameworks ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,tensorflow,pytorch,bootstrap" /><br/>
+    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,flask" /><br/>
 </div>
 
 <br/>
+<h2 align="center">⚒️ Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=github,git,linux,mongodb,firebase" /><br/>
+    <img src="https://skillicons.dev/icons?i=matlab,arduino,vscode,unity,nodejs" /><br/>
+    <img src="https://skillicons.dev/icons?i=express" /><br/>
+<br/>
+
+<br/>
 <hr/>
-
-
-
-
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
