@@ -30,7 +30,9 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nodejs,tensorflow,pytorch,bootstrap" /><br/>
-    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,flask,vite" /><br/>
+    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,flask,vite" />
+    <img src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="45"/><br/>
+    <img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="45"/>
 </div>
 
 <br/>
