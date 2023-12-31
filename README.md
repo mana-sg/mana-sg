@@ -25,7 +25,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript" /><br>
-    <img src="https://skillicons.dev/icons?i=swift,html,css" /><br/>
+    <img src="https://skillicons.dev/icons?i=swift,html,css,rust" /><br/>
  <h2 align="center">⚒️ Frameworks ⚒️</h2>
 <br/>
 <div align="center">
